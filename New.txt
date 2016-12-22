@@ -1,1 +1,2 @@
-Nuovo file di testo
+Nuovo file di testo.
+Aggiunta una riga di testo.
